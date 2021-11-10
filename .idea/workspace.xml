@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a734a9a7-962d-48de-aade-9579289ce64f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20iuCZCw0uLnHXuYF1lFNKYnNL6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestAPI.testActivityRetrieval">
+    <configuration name="TestAPI.testActivityCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAPI" />
+      <option name="METHOD_NAME" value="testActivityCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI.testActivityRetrieval" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-rest-assured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAPI" />
+      <option name="METHOD_NAME" value="testActivityRetrieval" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestAPI.testActivityRetrieval" />
+        <item itemvalue="TestNG.TestAPI.testActivityCreation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a734a9a7-962d-48de-aade-9579289ce64f" name="Default Changelist" comment="" />
+      <created>1636539602129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636539602129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2635" y="223" key="#xdebugger.evaluate" timestamp="1636540866737">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2635" y="223" key="#xdebugger.evaluate/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540866737" />
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom" timestamp="1636541205454">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.bottom/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636541205454" />
+    <state width="1877" height="330" key="GridCell.Tab.0.center" timestamp="1636541205453">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.center/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636541205453" />
+    <state width="1877" height="330" key="GridCell.Tab.0.left" timestamp="1636541205453">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.left/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636541205453" />
+    <state width="1877" height="330" key="GridCell.Tab.0.right" timestamp="1636541205454">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="330" key="GridCell.Tab.0.right/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636541205454" />
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom" timestamp="1636540929992">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.bottom/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540929992" />
+    <state width="1877" height="338" key="GridCell.Tab.1.center" timestamp="1636540929991">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.center/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540929991" />
+    <state width="1877" height="338" key="GridCell.Tab.1.left" timestamp="1636540929991">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.left/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540929991" />
+    <state width="1877" height="338" key="GridCell.Tab.1.right" timestamp="1636540929992">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="338" key="GridCell.Tab.1.right/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540929992" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1636540738860">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/1137.1080.1280.693/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1636540738860" />
+  </component>
+</project>
